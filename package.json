@@ -1,0 +1,18 @@
+{
+	"name": "dimov-astro",
+	"type": "module",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "astro dev",
+		"start": "astro dev",
+		"build": "astro build",
+		"preview": "astro preview",
+		"astro": "astro"
+	},
+	"dependencies": {
+		"@astrojs/rss": "^4.0.8",
+		"@astrojs/sitemap": "^3.2.0",
+		"astro": "^5.0.8",
+		"dewp": "^0.0.5"
+	}
+}
