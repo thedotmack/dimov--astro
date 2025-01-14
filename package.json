@@ -13,6 +13,7 @@
 		"@astrojs/rss": "^4.0.8",
 		"@astrojs/sitemap": "^3.2.0",
 		"astro": "^5.1.6",
-		"dewp": "^0.0.5"
+		"dewp": "^0.0.5",
+		"undici": "^7.2.1"
 	}
 }
